@@ -1,1 +1,1 @@
-# git-demo
+# ht-epam-trainings
