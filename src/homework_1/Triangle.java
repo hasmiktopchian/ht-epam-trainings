@@ -1,8 +1,11 @@
 package homework_1;
 
+import java.util.Scanner;
+
 public class Triangle {
     public static void main(String[] args) {
-        int rows = 5;
+        Scanner scan = new Scanner(System.in);
+        int rows = scan.nextInt();
         String symbol = "*";
 
         for (int i = 1; i <= rows; i++) {
